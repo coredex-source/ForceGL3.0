@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.kabanfriends.forcegl20.mixin",
+  "minVersion": "0.8",
+  "client": [
+    "GL20Mixin"
+  ],
+  "mixins": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
